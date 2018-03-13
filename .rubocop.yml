@@ -1,0 +1,5 @@
+Style/Documentation:
+  Enabled: false
+
+Style/HashSyntax:
+  EnforcedStyle: no_mixed_keys
