@@ -1,5 +1,2 @@
 require 'jocelyn/version'
-
-module Jocelyn
-  # Your code goes here...
-end
+require 'jocelyn/enumerable_methods'
